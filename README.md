@@ -10,6 +10,6 @@ the code to either be effecient or to remove alot of plagiarism.
 
 ## Technologies
 
-- [ ] [HTTP Server](./HttpServer) (* In progress)
+- [ ] [HTTP Server](./HttpServer) (***Inprogress***)
 - [ ] BitTorrent Client
 
